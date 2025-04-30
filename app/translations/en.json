@@ -1,0 +1,12 @@
+{
+  "appName": "Present",
+  "button": {
+    "open": "I am open to chat",
+    "close": "I am not open to chat"
+  },
+  "status": {
+    "inactive": "Tap to activate",
+    "searching": "Activated. We'll let you know if someone is here.",
+    "match": "Someone here is also open to chat. Look up."
+  }
+} 

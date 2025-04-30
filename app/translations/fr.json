@@ -1,0 +1,12 @@
+{
+  "appName": "Présent·e",
+  "button": {
+    "open": "Je suis ouvert·e à discuter",
+    "close": "Je ne suis plus ouvert·e à discuter"
+  },
+  "status": {
+    "inactive": "Appuyez pour activer",
+    "searching": "C'est activé. On vous dira si quelqu'un est là.",
+    "match": "Quelqu'un ici est aussi ouvert à discuter. Levez les yeux."
+  }
+} 
